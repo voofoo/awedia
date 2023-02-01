@@ -44,7 +44,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "/awesome-media-project" # the subpath of your site, e.g. /blog
+baseurl: "/awedia" # the subpath of your site, e.g. /blog
 url: "https://voofoo.github.io" # the base hostname & protocol for your site
 google_analytics: ""
 language: "en"
