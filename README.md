@@ -1,14 +1,10 @@
-# Jekflix Template
+# Awedia
 
-![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
-
-See the [demo here](https://jekflix.rossener.com/).
+forked from https://github.com/thiagorossener/jekflix-template
 
 ## What is it?
 
-A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
-
-![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
+A media-focused WIP
 
 ## Features
 
