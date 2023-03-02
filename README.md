@@ -1,10 +1,10 @@
 # Awedia
 
-forked from https://github.com/thiagorossener/jekflix-template
+media oriented
 
 ## What is it?
 
-A media-focused WIP
+A WIP, forked from https://github.com/thiagorossener/jekflix-template
 
 ## Features
 
